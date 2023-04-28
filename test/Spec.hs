@@ -6,7 +6,7 @@ main :: IO ()
 main = defaultMain tests
 
 tests :: TestTree
-tests = testGroup "Tests" [properties]
+tests = testGroup "Tests" [units, properties]
 
 units :: TestTree
 units = testGroup "Units" []
