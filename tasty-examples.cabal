@@ -39,6 +39,8 @@ test-suite tasty-examples-test
   type: exitcode-stdio-1.0
   main-is: Spec.hs
   other-modules:
+      Properties
+      Units
       Paths_tasty_examples
   hs-source-dirs:
       test
