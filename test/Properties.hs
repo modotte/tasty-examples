@@ -21,5 +21,5 @@ properties :: TestTree
 properties =
   testGroup
     "Properties"
-    [ testProperty "reverse" prop_reverse
+    [ testProperty "prop_reverse" prop_reverse
     ]
