@@ -21,5 +21,5 @@ properties :: TestTree
 properties =
   testGroup
     "Properties"
-    [ testProperty "hedgehog tests" prop_reverse
+    [ testProperty "reverse" prop_reverse
     ]
