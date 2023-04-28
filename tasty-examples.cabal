@@ -60,4 +60,5 @@ test-suite tasty-examples-test
     , tasty
     , tasty-examples
     , tasty-hedgehog
+    , tasty-hspec
   default-language: Haskell2010

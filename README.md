@@ -1,3 +1,3 @@
 # tasty-examples
 
-Examples of property testing with tasty and Hedgehog.
+Examples of unit and property testing with tasty and Hedgehog.
