@@ -53,3 +53,4 @@ tests:
       - tasty-hspec
       - tasty-hedgehog
       - tasty-html
+      - tasty-rerun
